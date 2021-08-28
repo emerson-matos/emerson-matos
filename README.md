@@ -62,8 +62,6 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-matos&" alt="emerson-matos" /></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Emegson&compact=True"/></a>
-
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
