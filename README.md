@@ -50,7 +50,7 @@
 
 <h2> Stuff I worked on last week </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@emersonmatos&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@emersonmatos&show_icons=true&theme=dracula&compact=True"/>
 </a>
 <br>
 
